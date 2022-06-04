@@ -1,2 +1,2 @@
 # .github
-look at this
+look at these neat community health files
